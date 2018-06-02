@@ -1,8 +1,11 @@
-name: flutter_toast
+name: flutter_toast_pk
 description: A new Flutter plugin for showing toast in android and ios.
 version: 0.0.1
-author: Pawan Kumar
-homepage:
+author: Pawan Kumar <mtechviral@gmail.com>
+homepage: https://github.com/iampawan/FlutterToastPlugin
+
+environment:
+  sdk: ">=2.0.0-dev.28.0 <3.0.0"
 
 dependencies:
   flutter:
